@@ -1,2 +1,0 @@
-Insert>>add>>commit>>Push
-this is test3.text
